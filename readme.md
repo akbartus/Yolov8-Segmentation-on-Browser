@@ -39,7 +39,7 @@ mask-yolov8-seg.onnx
 
 It is possible to use bigger models converted to onnx, however this might impact the total loading time.
 
-To use another YOLOvv model, download it from Ultralytics and convert it to onnx file format. Read more on the [official documentation](https://docs.ultralytics.com/tasks/segmentation/#export)
+To use another YOLOv8 model, download it from Ultralytics and convert it to onnx file format. Read more on the [official documentation](https://docs.ultralytics.com/tasks/segmentation/#export)
 
 **Custom YOLOv8 Segmentation Models**
 
