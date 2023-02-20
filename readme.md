@@ -47,4 +47,4 @@ Please update labels object inside of main.js file.
 
 
 ## Demo
-To see demo, please visit the <a href="https://yolov8-segmentation.glitch.me/"following page</a>
+To see demo, please visit the <a href="https://yolov8-segmentation.glitch.me/">following page</a>
