@@ -32,9 +32,6 @@ nms-yolov8.onnx
 ONNX model to produce mask for every object detected [CUSTOM].
 
 ```
-
-##Demo
-To see demo, please visit the <a href="https://yolov8-segmentation.glitch.me/"following page</a>
 mask-yolov8-seg.onnx
 ```
 
@@ -47,3 +44,7 @@ To use another YOLOvv model, download it from Ultralytics and convert it to onnx
 **Custom YOLOv8 Segmentation Models**
 
 Please update labels object inside of main.js file.
+
+
+##Demo
+To see demo, please visit the <a href="https://yolov8-segmentation.glitch.me/"following page</a>
