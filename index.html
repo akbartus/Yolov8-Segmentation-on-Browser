@@ -1,0 +1,28 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>YOLOv8 Onnx Serving: Segmentation</title>
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+    <script src="js/opencv.js"></script>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="root">
+        <div class="App">
+            <div class="header">
+                <h1>YOLOv8 Segmentation Example</h1>
+                <p>Serving : <code class="code">yolov8n-seg.onnx</code></p>
+            </div>
+            <div class="content">
+              
+                <img id="loadedImg" alt="">
+                <canvas id="canvas" width="640" height="640"></canvas></div>
+                <input type="file" id="imgLoader" size="24"/>
+            <button onclick="runInference()">Run Inference</button>
+        </div>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>
