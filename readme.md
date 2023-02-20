@@ -46,5 +46,5 @@ To use another YOLOvv model, download it from Ultralytics and convert it to onnx
 Please update labels object inside of main.js file.
 
 
-##Demo
+## Demo
 To see demo, please visit the <a href="https://yolov8-segmentation.glitch.me/"following page</a>
