@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/screenshot.jpg" />
+</p>
+
 This is adapted and reduced version of YOLOv8 object detection (powered by onnx) created by <a href="https://github.com/Hyuto/yolov8-seg-onnxruntime-web">Wahyu Setianto</a>. This version can be run on JavaScript without any frameworks.
 
 ## Setup
